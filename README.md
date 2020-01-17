@@ -15,8 +15,8 @@ amount sits just below £2000 in the 3rd quartile![GB Musical Box Plot.png](GB M
 The date to launch the kickstarter is also very important. By breaking down the outcomes based on months, I have 
 determined that the second quarter, specifcially may and june, have the highest success rates out of all theater campaigns![Monthly Outcomes Based on Launch Date.png](Monthly Outcomes Based on Launch Date.png) .
 
-Both the U.S. and Great Britain have alot of succesful theater campaigns, but Great Britain has the higher success rate for plays. Which
-is 238 succesful while only having 70 failures![Outcomes_of_Plays_in_GB.png](Outcomes_of_Plays_in_GB.png). 
+Both the U.S. and Great Britain have alot of succesful theater campaigns, but Great Britain has the higher success rate for plays, which
+has 238 succesful while only having 70 failures![Outcomes_of_Plays_in_GB.png](Outcomes_of_Plays_in_GB.png). 
 
 My recommendation to Lousie is to launch her campaign in Great Britain during the months of May or June and to lower her intial goal
 down to £1800 to have the best chance at a succesful campaign.
