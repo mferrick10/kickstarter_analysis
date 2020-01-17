@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-Louise is looking to start a Kickstarter Campaign for her play Fever in U.S. and is looking for some 
+*Louise is looking to start a Kickstarter Campaign for her play Fever in U.S. and is looking for some 
 guidance to do so. Louise wants to set her intial goal at the amount of $10,000. She is also curious about 
 starting the campaign in Great Britain at an intial goal of £4000. 
 
@@ -10,7 +10,7 @@ campaign at an average of $10,554(Reference Descriptive Statistics worksheet) [K
 
 As for Great Britain and starting off with an intial Goal of £4000, it is right around the average, which sits high into the 3rd quartile.
 Now the median goal of musical campaigns in Great Britain is at £2000, while the upper end of the pledged
-amount sits just below £2000 in the 3rd quartile ![GB_Musical_Box Plot.png](GB_Musical_Box Plot.png).
+amount sits just below £2000 in the 3rd quartile ![GB_Musical_Box_Plot.png](GB_Musical_Box_Plot.png).
 
 The date to launch the kickstarter is also very important. By breaking down the outcomes based on months, I have 
 determined that the second quarter, specifcially may and june, have the highest success rates out of all theater campaigns![Monthly_Outcomes_Based_on_Launch_Date.png](Monthly_Outcomes_Based_on_Launch_Date.png) .
@@ -18,5 +18,5 @@ determined that the second quarter, specifcially may and june, have the highest 
 Both the U.S. and Great Britain have alot of succesful theater campaigns, but Great Britain has the higher success rate for plays, which
 has 238 succesful while only having 70 failures ![Outcomes_of_Plays_in_GB.png](Outcomes_of_Plays_in_GB.png). 
 
-My recommendation to Lousie is to launch her campaign in Great Britain during the months of May or June and to lower her intial goal
+**My recommendation to Lousie is to launch her campaign in Great Britain during the months of May or June and to lower her intial goal
 down to £1800 to have the best chance at a succesful campaign.
