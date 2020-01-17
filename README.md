@@ -2,7 +2,7 @@
 
 *Louise is looking to start a Kickstarter Campaign for her play Fever in U.S. and is looking for some 
 guidance to do so. Louise wants to set her intial goal at the amount of $10,000. She is also curious about 
-starting the campaign in Great Britain at an intial goal of £4000. 
+starting the campaign in Great Britain at an intial goal of £4000.* 
 
 After filtering the data in the U.S. through theater and then its sub category plays I have determined that the
 average succesful goal of a play campaign is $5049 compared to an unsuccessful play 
@@ -20,4 +20,4 @@ Both the U.S. and Great Britain have alot of succesful theater campaigns, but Gr
 has 238 succesful while only having 70 failures. ![Outcomes_of_Plays_in_GB.png](Outcomes_of_Plays_in_GB.png)
 
 **My recommendation to Lousie is to launch her campaign in Great Britain during the months of May or June and to lower her intial goal
-down to £1800 to have the best chance at a succesful campaign.
+down to £1800 to have the best chance at a succesful campaign.**
