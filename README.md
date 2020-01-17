@@ -6,14 +6,14 @@ starting the campaign in Great Britain at an intial goal of £4000.
 
 After filtering the data in the U.S. through theater and then its sub category plays I have determined that the
 average succesful goal of a play campaign is $5049 compared to an unsuccessful play 
-campaign at an average of $10,554(Reference Descriptive Statistics worksheet) [Kickstarter_Analysis_Module_1.zip](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\Kickstarter_Analysis_Module_1.zip).
+campaign at an average of $10,554(Reference Descriptive Statistics worksheet) [Kickstarter_Analysis_Module_1.xlxs](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\Kickstarter_Analysis_Module_1.xlxs).
 
 As for Great Britain and starting off with an intial Goal of £4000, it is right around the average, which sits high into the 3rd quartile.
 Now the median goal of musical campaigns in Great Britain is at £2000, while the upper end of the pledged
-amount sits just below £2000 in the 3rd quartile[GB Musical Box Plot.png](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\GB Musical Box Plot.png).
+amount sits just below £2000 in the 3rd quartile![GB Musical Box Plot.png](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\GB Musical Box Plot.png).
 
 The date to launch the kickstarter is also very important. By breaking down the outcomes based on months, I have 
-determined that the second quarter, specifcially may and june, have the highest success rates out of all theater campaigns[Monthly Outcomes Based on Launch Date.png](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\Monthly Outcomes Based on Launch Date.png) .
+determined that the second quarter, specifcially may and june, have the highest success rates out of all theater campaigns![Monthly Outcomes Based on Launch Date.png](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\Monthly Outcomes Based on Launch Date.png) .
 
 Both the U.S. and Great Britain have alot of succesful theater campaigns, but Great Britain has the higher success rate for plays. Which
 is 238 succesful while only having 70 failures. 
