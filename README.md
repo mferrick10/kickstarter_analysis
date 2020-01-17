@@ -10,7 +10,7 @@ campaign at an average of $10,554(Reference Descriptive Statistics worksheet) [K
 
 As for Great Britain and starting off with an intial Goal of £4000, it is right around the average, which sits high into the 3rd quartile.
 Now the median goal of musical campaigns in Great Britain is at £2000, while the upper end of the pledged
-amount sits just below £2000 in the 3rd quartile ![GB_Musical_Box_Plot.png](GB_Musical_Box_Plot.png).
+amount sits just below £2000 in the 3rd quartile ![GB_Musical_Box Plot.png](GB_Musical_Box Plot.png).
 
 The date to launch the kickstarter is also very important. By breaking down the outcomes based on months, I have 
 determined that the second quarter, specifcially may and june, have the highest success rates out of all theater campaigns![Monthly_Outcomes_Based_on_Launch_Date.png](Monthly_Outcomes_Based_on_Launch_Date.png) .
