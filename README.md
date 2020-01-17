@@ -6,7 +6,7 @@ starting the campaign in Great Britain at an intial goal of £4000.
 
 After filtering the data in the U.S. through theater and then its sub category plays I have determined that the
 average succesful goal of a play campaign is $5049 compared to an unsuccessful play 
-campaign at an average of $10,554(Reference Descriptive Statistics worksheet) [Kickstarter_Analysis_Module_1.xlxs](C:\Users\mferrick\Desktop\UCB_Projects\Crowdfunding Analysis\Kickstarter_Analysis_Module_1.xlxs).
+campaign at an average of $10,554(Reference Descriptive Statistics worksheet) [Kickstarter_Analysis_Module_1.xlxs](Kickstarter_Analysis_Module_1.zip).
 
 As for Great Britain and starting off with an intial Goal of £4000, it is right around the average, which sits high into the 3rd quartile.
 Now the median goal of musical campaigns in Great Britain is at £2000, while the upper end of the pledged
