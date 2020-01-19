@@ -20,12 +20,12 @@ Now the median goal of musical campaigns in Great Britain is at £2000, while th
 The date to launch the kickstarter is also very important. By breaking down the outcomes based on months, I have 
 determined that the second quarter, specifcially may and june, have the highest success rates out of all theater campaigns
 
-![Monthly_Outcomes_Based_on_Launch_Date.png](Monthly_Outcomes_Based_on_Launch_Date.png)
+![Theater_Outcomes_by_Month.png](Theater_Outcomes_by_Month.png)
 
 Both the U.S. and Great Britain have alot of succesful theater campaigns, but Great Britain has the higher success rate for plays, which
 has 238 succesful while only having 70 failures. 
 
-![Outcomes_of_Plays_in_GB.png](Outcomes_of_Plays_in_GB.png)
+![Outcomes_of_Plays_GB.png](Outcomes_of_Plays_GB.png)
 
 #### Recommendation
 
