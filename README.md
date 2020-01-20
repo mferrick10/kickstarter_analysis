@@ -34,13 +34,13 @@ down to £1800 to have the best chance at a succesful campaign.**
 
 ### Challenge
 
-Module 1 Kickstarter Analysis Challenge File [Module_1_Challenge.xlsx]()
+Module 1 Kickstarter Analysis Challenge File [Module_1_Challenge.xlsx](Module_1_Challenge.xlsx)
 
 Play campaigns with goals of $5000 or less have the highest chance of success with an average of 67%. Kickstarter play 
 campaigns with goals higher than $5,000 had roughly the same success and failure percentages with the outcomes 
 favoring failure beyond $45,000. Throughout the intial goal ranges, canceled projects had a direct 
 correlation to the increase in goal amounts, with it starting at just 4% for less than $1,000 and ending with 23% 
-at $50,000 or more. ![Outcomes_Based_on_Goal_Amounts.png](Outcomes_Based_on_Goal_Amounts.png)
+at $50,000 or more. ![Outcomes_Based_on_Goal_Amount.png](Outcomes_Based_on_Goal_Amount.png)
 
 The best time to start a kickstarter play campaign is in the second quarter during the months of May and June. These two 
 months have the highest amount of successful outcomes which supports the idea that it does matter when someone launches a campaign.
