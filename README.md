@@ -36,7 +36,7 @@ down to £1800 to have the best chance at a succesful campaign.**
 
 Module 1 Kickstarter Analysis Challenge File [Module_1_Challenge.xlsx](Module_1_Challenge.xlsx)
 
-Play campaigns with goals of $5000 or less have the highest chance of success with an average of 67%. Kickstarter play 
+Kickstarter play campaigns with goals of $5000 or less have the highest chance of success with an average of 67%. Kickstarter play 
 campaigns with goals higher than $5,000 had roughly the same success and failure percentages with the outcomes 
 favoring failure beyond $45,000. Throughout the intial goal ranges, canceled projects had a direct 
 correlation to the increase in goal amounts, with it starting at just 4% for less than $1,000 and ending with 23% 
