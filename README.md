@@ -48,7 +48,7 @@ Now I was curious and the average length of time for a kickstarter campaign turn
 supports that when someone like Louise launches her campaign again, that late in the second quarter and early in the 
 third are the best times to do so. ![Outcomes_for_Theater_Campaigns.png](Outcomes_for_Theater_Campaigns.png)
 
-All analysis was performed on strictly play campaigns. I could have created additional graphs based on muscials or other 
+All analyses were created based on kickstarter play campaigns. I could have created additional graphs based on muscials or other 
 sub categories within theater to see if maybe play wasn't the best fit for Louise. This was a sample size, plays, and was 
 relatively small so I could find another source of kickstarter campaigns, that were based on plays, to help create more 
 accurate conclusions. It will still be a sample size of the entire population of all campaigns relevant to plays out 
